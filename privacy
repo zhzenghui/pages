@@ -13,6 +13,9 @@
    
    - 用户控制：
      * app内的数据您可以导出或删除健康数据
+     * 删除操作会立即永久移除数据，包括所有关联的本地存储记录
+     * 删除的数据无法恢复，请谨慎操作
+
 1. Health Information Processing:
    - We do not collect your health information. All data remains on your phone and will not be uploaded to any server.
 
@@ -21,7 +24,8 @@
    
    - User Control:
      * You can export or delete health data within the app
-
+     * Deletion will permanently remove all data immediately, including all associated local storage records
+     * Deleted data cannot be recovered, please proceed with caution
 1. 数据收集
 我们承诺不收集、存储或上传用户的任何个人数据。您在使用本应用时，所有的操作和数据均在您的设备上进行，不会被发送到我们的服务器或任何第三方。
 

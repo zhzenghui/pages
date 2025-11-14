@@ -4,6 +4,45 @@
 
 我们非常重视您的隐私。请仔细阅读以下隐私政策，以了解我们如何处理您的个人信息。
 
+RevoBlur
+
+本应用仅用于本地图片的加密、解密与浏览，不会收集、上传或共享任何个人数据。除以下必要场景外，不进行任何联网行为。
+
+1) 权限使用
+- 访问相册（读取）：用于选择图片进行加/解密与预览。
+- 保存到相册（写入）：用于将处理后的图片保存回系统相册。
+
+2) 数据处理与存储
+- 所有操作均在本地设备完成，不会通过网络传输图片或个人信息。
+- 本应用不建立用户账号、不记录敏感信息。
+
+3) 网络与第三方
+- iOS 内购（IAP）：发起购买时会与 Apple App Store 服务器通信，用于商品查询、下单与收据验证；该网络访问由系统与官方 SDK 完成。
+- 除上述 IAP 必要通信外，我们不向自有服务器上传数据。
+- 不接入第三方统计或广告 SDK（如需接入，将在页面明确告知并征得同意）。
+
+4) 变更
+- 若未来隐私策略或 IAP 处理方式发生变更（例如新增服务器端收据校验），将在应用内以本地文件或页面说明形式更新，并明显提示。
+
+
+This app only accesses the system Photos for image processing and saving; it does not collect or upload any personal data; it does not integrate third‑party analytics or ad SDKs (if needed in the future, we will clearly notify and obtain consent in the app).
+
+- Photos permission: used to save images to the system album and read necessary images for processing.
+- Network access: only for In‑App Purchases (IAP) to communicate with Apple App Store servers for pre‑purchase validation and transaction processing; the app does not upload data to any of our own servers.
+
+If you do not agree with the above, you can disable the related permissions in system settings or stop using the app.
+
+
+
+本アプリは画像の処理と保存のためにシステムの写真アルバムへアクセスしますが、個人データを収集・アップロードしません。第三者の解析・広告 SDK は導入していません（将来必要になった場合は、アプリ内で明確に通知し、同意を得ます）。
+
+- 写真へのアクセス権限：画像をシステムのアルバムへ保存するため、また処理に必要な画像を読み取るために使用します。
+- ネットワークアクセス：iOS のアプリ内課金（IAP）のみで、Apple App Store のサーバーとの事前検証や取引処理のために通信します。本アプリは自社サーバーへデータをアップロードしません。
+
+上記に同意いただけない場合は、システム設定で関連権限を無効にするか、本アプリの利用を停止してください。
+
+
+
 1.健康信息处理：
    - 我们不收集您的健康信息，所有的数据都在您的手机上，不会上传到服务器。
 
